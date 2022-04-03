@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming side-projects.
 
-Watch my *[DEMO VIDEO](https://drive.google.com/file/d/1kkixCRy0so78c2eEXHyazW9q5IUKCbvX/view?usp=sharing)*
+Watch my *[DEMO VIDEO](https://drive.google.com/file/d/15UKThXsji90wc30M_PkkHCRyW3RvtLaV/view?usp=sharing)*
 
 ## Project Source Codes
 [anagram](https://github.com/WenJuiHuang/MyEricProject/tree/main/anagram)
