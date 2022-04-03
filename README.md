@@ -16,6 +16,10 @@ Watch my *[DEMO VIDEO](https://drive.google.com/file/d/1kkixCRy0so78c2eEXHyazW9q
 [boggle](https://github.com/WenJuiHuang/MyEricProject/tree/main/boggle)
 
     using recursion to play the boggle game
+
+[boston_housing_predict](https://github.com/WenJuiHuang/MyEricProject/blob/main/boston%20housing%20project/boston_housing_competition.py)
+
+    using Boston housing dataset to practice data analyzing and machine learning skills
     
 [break_out_game](https://github.com/WenJuiHuang/MyEricProject/tree/main/break_out_game)
 
